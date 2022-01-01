@@ -22,13 +22,13 @@ Assumption latest micropython firmware is installed and a lcd display is mounted
 # Graphic primitives
 
 ## Circles (outline & filled)
-![IMG_0177](https://user-images.githubusercontent.com/949032/147857099-5d116253-241e-46d6-b84f-2bb829fa3ebd.jpeg)
+![IMG_0177](https://user-images.githubusercontent.com/949032/147857226-31642665-449e-4071-a77b-25b7d6a4c4d3.jpeg)
 
 ## Rectangles (outline & filled)
-![IMG_0178](https://user-images.githubusercontent.com/949032/147857140-e577807f-463c-4c72-b472-12afc1db54f2.jpeg)
+![IMG_0178](https://user-images.githubusercontent.com/949032/147857232-a02b7cbd-5e5a-4879-a2de-868d98bd7fbb.jpeg)
 
 ## Triangles (outline)
-![IMG_0179](https://user-images.githubusercontent.com/949032/147857169-b351055d-4726-4d10-a571-ac4830bd4908.jpeg)
+![IMG_0179](https://user-images.githubusercontent.com/949032/147857233-f44fb499-de4c-4105-8bc9-75adb7ce5b35.jpeg)
 
 ## Round-Rectangles (outline & filled)
 

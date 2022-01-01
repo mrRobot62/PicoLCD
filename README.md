@@ -43,10 +43,25 @@ This class should be importet in your project and represent the ui component. Vi
 
 This class provide all high level graphic functions which you can use in your project
 
+## LCD_ST7789_pico.py
+This subclass inherit function from LCDBase and is specilized for a LCD display based on a ST7789 display chip. These subclasses contain all necessary low level routines to use an display. This classes do not contain high level graphic primitives, except those which are provided by Framebuffer
+
 ### LCDBase.py
 Abstract base class for LCD/OLED subclasses. This base class provide a couple of low level routines, which should be used from subclasses and some methods which muste be implemented inside a subclass. This abstract class is a Framebuffer class
 
-## LCD_ST7789_pico.py
-This subclass inherit function from LCDBase and is specilized for a LCD display based on a ST7789 display chip. These subclasses contain all necessary low level routines to use an display. This classes do not contain high level graphic primitives, except those which are provided by Framebuffer
+### Framebuffer 
+MicroPython built in lib. See : https://docs.micropython.org/en/latest/library/framebuf.html
+
+# Generel links
+In regrads to below sites, I got a couple of ideas, solutions and good vibes ;-)
+
+**Adafruit**
+From AdafruitGFX a couple of low level routines were adapted in python for this LCD lib
+https://learn.adafruit.com/adafruit-gfx-graphics-library/using-fonts?view=all#graphics-primitives
+
+**Peter Hinch**
+A very good implementation of fonts for MicroPython
+https://github.com/peterhinch/micropython-font-to-py
+
 
 

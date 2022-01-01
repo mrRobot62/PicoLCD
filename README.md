@@ -52,15 +52,17 @@ Abstract base class for LCD/OLED subclasses. This base class provide a couple of
 ### Framebuffer 
 MicroPython built in lib. See : https://docs.micropython.org/en/latest/library/framebuf.html
 
-# Links and acknoledgements
-In regrads to below sites, I got a couple of ideas, solutions and good vibes ;-)
+# Links and acknowledgements
+I have received many good suggestions, solutions, ideas and good vibes via the links below.
 
 **Adafruit**
 From AdafruitGFX a couple of low level routines were adapted in python for this LCD lib
+
 https://learn.adafruit.com/adafruit-gfx-graphics-library/using-fonts?view=all#graphics-primitives
 
 **Peter Hinch**
 A very good implementation of fonts for MicroPython
+
 https://github.com/peterhinch/micropython-font-to-py
 
 

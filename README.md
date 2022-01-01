@@ -25,7 +25,7 @@ Assumption latest micropython firmware is installed and a lcd display is mounted
 ![IMG_0177](https://user-images.githubusercontent.com/949032/147857273-ef17d61a-2097-46fa-bee3-490bb93bcc3b.png)
 
 ## Rectangles (outline & filled)
-![IMG_0178](https://user-images.githubusercontent.com/949032/147857274-ad833089-0620-492b-84d6-de92b80c80b9.jpeg)
+![IMG_0178](https://user-images.githubusercontent.com/949032/147857289-2207b9ba-b21a-4daa-806b-b0b34d2fa22f.png)
 
 ## Triangles (outline)
 ![IMG_0179](https://user-images.githubusercontent.com/949032/147857277-d1906a97-b6c7-4342-9189-b42f59fd3b2c.png)

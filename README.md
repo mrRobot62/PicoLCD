@@ -52,7 +52,7 @@ Abstract base class for LCD/OLED subclasses. This base class provide a couple of
 ### Framebuffer 
 MicroPython built in lib. See : https://docs.micropython.org/en/latest/library/framebuf.html
 
-# Generel links
+# Links and acknoledgements
 In regrads to below sites, I got a couple of ideas, solutions and good vibes ;-)
 
 **Adafruit**
